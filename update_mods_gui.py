@@ -43,7 +43,7 @@ def move_or_link(src, dest, as_link: bool):
 class ModUpdaterGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("RimWorld Mod Updater v1.0")
+        self.root.title("Mod Updater v1.0")
         self.root.geometry("700x600")
         self.root.resizable(True, True)
 
