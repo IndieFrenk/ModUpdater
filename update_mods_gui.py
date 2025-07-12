@@ -70,7 +70,7 @@ class ModUpdaterGUI:
         main_frame.columnconfigure(1, weight=1)
 
         # Titolo
-        title_label = ttk.Label(main_frame, text="RimWorld Mod Updater", 
+        title_label = ttk.Label(main_frame, text="Mod Updater", 
                                font=('Arial', 14, 'bold'))
         title_label.grid(row=0, column=0, columnspan=3, pady=(0, 20))
 
