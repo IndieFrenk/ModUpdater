@@ -1,3 +1,5 @@
+--There's a known bug that doesnt let the updater copy the mods in the game's mod folder, because it doesnt have rights to write on another disk, for now, until i fix it i suggest to run it in the same disk as the mod folder
+
 ﻿# Steam Workshop Mod Updater
 
 Aggiorna o scarica in blocco tutte le mod di Steam Workshop presenti nella cartella **Mods** (es. RimWorld, Project Zomboid, Factorio etc.) usando **SteamCMD** ed un semplice script **Python** con **interfaccia grafica**.
